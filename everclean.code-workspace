@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Documents"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "everclean"
+	}
+}

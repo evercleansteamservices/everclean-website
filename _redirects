@@ -1,0 +1,7 @@
+# Netlify redirects
+# Redirect old WordPress URLs to new pages
+/client-reviews/        /reviews.html       301
+/client-reviews         /reviews.html       301
+
+# Old WordPress service page redirect  
+/steam-cleaning-services/index.html    /steam-cleaning-services/   301
